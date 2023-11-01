@@ -54,8 +54,8 @@ You can install the required dependencies using the pip command as shown in the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Flask
-Pillow (PIL)
+* Flask
+* Pillow (PIL)
 
 ## Author
 Papa Kwabena Boakye Yiadom
