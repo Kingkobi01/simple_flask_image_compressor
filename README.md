@@ -1,5 +1,7 @@
 # Simple Flask Image Compressor
 
+
+![App Screenshot](Screenshot 2023-11-01 162816.png)
 This is a simple Flask web application that allows you to upload an image, compress it, and download the compressed version.
 
 ## Prerequisites
