@@ -6,7 +6,7 @@ This is a simple Flask web application that allows you to upload an image, compr
 
 Before running the application, make sure you have the following installed:
 
-- Python 3.x
+- Python 3.10
 - [Pillow (PIL)](https://pillow.readthedocs.io/en/stable/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - Other dependencies specified in `requirements.txt`
@@ -16,7 +16,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/simple_flask_image_compressor.git
+   git clone git@github.com:Kingkobi01/simple_flask_image_compressor.git
    cd simple_flask_image_compressor
    ```
 
